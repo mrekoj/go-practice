@@ -1,0 +1,13 @@
+#####################################################################################
+Keyword : defer
+
+- Using like finally situation in Java (when close file, close database connection,...)
+
+- Execute defer after return statement
+
+- Rule execute many defer is LIFO : Last In First Out
+
+#####################################################################################
+Keyword : panic
+
+I think it like throw an exception in Java
